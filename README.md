@@ -177,7 +177,7 @@ Made with ❤️ by [Your Name](https://github.com/your-username)
 - 🛠️: Tools
 - 🚀: Getting Started
 - 📂: Project Structure
-- 🌐: Live Demo
+- 🌐: Live Demos
 - 📸: Screenshots
 - 🤝: Contributing
 - 📄: License
